@@ -51,7 +51,7 @@ public class Menu {
 
 					break;
 				case 4:
-					System.out.println(Cores.TEXT_WHITE +"\nAtualizar produto");
+					System.out.println(Cores.TEXT_WHITE +"\nAtualizar os produtos");
 
 					break;
 				case 5:
